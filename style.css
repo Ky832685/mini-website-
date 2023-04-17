@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h3{
+  color:blue;
+}
+
+/* Place your work for Part 2 in the space below*/
+
+
+body{
+  background-color:gray;
+}
+
+a:hover {
+  background-color: black;
+  color:lightcoral;
+}
+
+img {
+  width:650px;
+  height:450px;
+}
+
+p {
+  color:aqua;
+}
+
+h1 {
+border: 4px solid lightcoral;
+}
